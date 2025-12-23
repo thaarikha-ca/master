@@ -26,3 +26,5 @@ for x in range(0, len(num), 2):
 print("CASE 6:")
 for x in range(1, len(num), 2):
     print(num[x])
+
+##Welcome
